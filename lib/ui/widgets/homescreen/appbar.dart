@@ -54,7 +54,7 @@ SliverAppBar customHomeScreenAppbar() {
                     color: Colors.grey,
                     borderRadius: BorderRadius.circular(20)),
                 child: Image.asset(
-                  'assets/images/img_user_logo.png',
+                  'assets/images/user_1.png',
                   height: 30,
                   width: 30,
                   fit: BoxFit.cover,
