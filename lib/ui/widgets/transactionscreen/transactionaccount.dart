@@ -9,9 +9,9 @@ Widget transactionAccount(BuildContext context) {
           InkWell(onTap: (){
             Navigator.pop(context);
           },
-              child: Icon(Icons.arrow_back_ios_new_outlined,color: Colors.white,)),
-          SizedBox(width: 10,),
-          Text(
+              child: const Icon(Icons.arrow_back_ios_new_outlined,color: Colors.white,)),
+          const SizedBox(width: 10,),
+          const Text(
             "Hello Nimesh, Here's Transaction",
             maxLines: 2,
             style: TextStyle(color: Colors.white),

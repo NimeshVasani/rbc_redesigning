@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:rbc_redesigning/ui/screens/movemoneyscreen.dart';
 import 'package:rbc_redesigning/ui/screens/transactionscreen.dart';
 
 import 'homescreen.dart';
@@ -16,8 +17,8 @@ class _MainScreenState extends State<MainScreen> {
 
   static const List<Widget> _bottomNavScreens = [
     HomeScreen(),
-    TransactionScreen(),
     HomeScreen(),
+    MoveMoneyScreen(),
     HomeScreen(),
   ];
 
