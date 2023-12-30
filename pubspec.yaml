@@ -33,6 +33,7 @@ dependencies:
   card_swiper: ^3.0.1
   dropdown_button2: ^2.3.9
   keyboard_actions: 4.2.0
+  flutter_swipe_button: ^2.1.1+1
 
 
   # The following adds the Cupertino Icons font to your application.

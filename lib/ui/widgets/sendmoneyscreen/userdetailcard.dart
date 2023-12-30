@@ -14,7 +14,7 @@ Widget userDetailCard() {
               color: Colors.white, borderRadius: BorderRadius.circular(10)),
           child: const Padding(
             padding: EdgeInsets.only(
-                top: 50.0, bottom: 50.0, left: 20.0, right: 20.0),
+                top: 30.0, bottom: 50.0, left: 20.0, right: 20.0),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -83,6 +83,35 @@ Widget userDetailCard() {
                       backgroundColor: MaterialStatePropertyAll(Colors.green),
                       surfaceTintColor:
                           MaterialStatePropertyAll(Colors.transparent)),
+                ),
+                SizedBox(
+                  height: 10,
+                ),
+                Text(
+                  'Frequency',
+                  style: TextStyle(color: Colors.black45),
+                ),
+                SizedBox(
+                  height: 10,
+                ),
+                DropdownMenu(
+                  dropdownMenuEntries: [
+                    DropdownMenuEntry(
+                        value: 'Once', label: 'Once'),
+                    DropdownMenuEntry(
+                        value: 'Weekly', label: 'Weekly'),
+                    DropdownMenuEntry(
+                        value: 'Monthly', label: 'Monthly'),
+                    DropdownMenuEntry(
+                        value: 'Yearly', label: 'Yearly'),
+                  ],
+                  label: Text('Frequency'),
+
+                  expandedInsets: EdgeInsets.zero,
+                  menuStyle: MenuStyle(
+                      backgroundColor: MaterialStatePropertyAll(Colors.green),
+                      surfaceTintColor:
+                      MaterialStatePropertyAll(Colors.transparent)),
                 ),
               ],
             ),
