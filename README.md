@@ -1,16 +1,34 @@
 # rbc_redesigning
 
-A new Flutter project.
+Welcome to the RBC App Redesign Challenge! 🚀 In this Flutter project, I've taken on the challenge of enhancing the UI for the RBC app with exciting new features and a fresh design.
+
+## Features
+
+### 1. Dynamic Animations
+Enjoy a seamless and engaging experience with enhanced animations throughout the app. Every interaction is designed to be not just functional but a delight to the eyes.
+
+### 2. Account Details
+The account details page has been revamped for a sleek and intuitive display, providing you with all the information you need at your fingertips.
+
+### 3. Funds Overview with Bar Chart
+Visualize your financial health with an interactive bar chart on the funds overview page. Gain insights and track your financial portfolio effortlessly.
+
+### 4. Credit and Debit Cards with Swappable View
+Managing your cards is now more convenient than ever. Swipe left, swipe right – explore the details of your credit and debit cards with a simple swipe gesture.
+
+### 5. All Transactions Screen
+Dive into a comprehensive overview of all your transactions with a user-friendly screen designed for easy tracking and management.
+
+## Screenshots
+
+[Include screenshots or GIFs demonstrating the UI changes and features.]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/your-username/rbc-app-redesign-challenge.git
+cd rbc-app-redesign-challenge
