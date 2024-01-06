@@ -31,7 +31,7 @@ Dive into a comprehensive overview of all your transactions with a user-friendly
 
 ## Screenshots
 
-[Include screenshots or GIFs demonstrating the UI changes and features.]
+![alt text](https://github.com/NimeshVasani/rbc_redesigning/blob/main/screenshots/final_rbc.jpg)
 
 ## Getting Started
 
