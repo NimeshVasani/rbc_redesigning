@@ -32,7 +32,7 @@ Dive into a comprehensive overview of all your transactions with a user-friendly
 ## Screenshots
 
 
-![Model](https://github.com/NimeshVasani/rbc_redesigning/tree/62705d89b23df15b6088e0620623b71754526cf7/screenshots/final_rbc.png)
+![Image 1](https://github.com/NimeshVasani/rbc_redesigning/tree/62705d89b23df15b6088e0620623b71754526cf7/screenshots/final_rbc.png)
 
 
 
